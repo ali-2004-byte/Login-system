@@ -19,11 +19,14 @@ A login system built with Python and Tkinter.
 * The Sign In button takes the user to the Sign-In window
 
 ## Requirements
-* Python installed
-* Tkinter library
-* The execution file is also available in the repo.
 
-
-
+#### Languages
+* Python
+#### Libraries and Modules
+* Tkinter: Pre-installed with Python.
+* ast: Included in Python's standard library.
+* messagebox: Part of the tkinter module.
+#### Operating System
+* Compatible with Windows, macOS, and Linux.
 
 
